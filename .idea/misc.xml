@@ -3,7 +3,10 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Android Studio/MyimageView/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Android Studio/MyimageView/app/src/main/res/drawable/point_select.xml" value="0.1205" />
+        <entry key="..\:/Android Studio/MyimageView/app/src/main/res/drawable/shape.xml" value="0.1205" />
+        <entry key="..\:/Android Studio/MyimageView/app/src/main/res/layout/activity_main.xml" value="0.176" />
+        <entry key="..\:/Android Studio/MyimageView/app/src/main/res/layout/shape.xml" value="0.1" />
       </map>
     </option>
   </component>
